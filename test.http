@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8000/api/v1/conversations/convo_1/messages/stream
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiY2YxNDhiYS0yMTRiLTQ4NDEtOGQxMC01OTk4MmY5YjI4NjEiLCJleHAiOjE3NzA4OTcyNzV9.78N3CupKmpt-__gGFoNbfAPmP0Ws4ifdFtFlVQbFz9k
+Content-Type: application/json
+
+{
+  "content": "Explain JWT authentication clearly"
+}
